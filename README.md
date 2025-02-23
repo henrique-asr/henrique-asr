@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=70&lines=Ol%C3%A1!%F0%9F%91%8B;Sou+o+Henrique+Augusto!" />
 </h1>
 
+<h3 align="center">Estudante Universitário buscando aprender programação!</h3>
+
 <h3 align="center">Meus Contatos!</h3>
 
 <br/>
@@ -23,10 +25,11 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Linguagens ⚒️</h2>
+<h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,arduino" />
+    <img src="https://skillicons.dev/icons?i=c,python" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,visualstudio" /><br>
 </div>
 
 <br/>
@@ -45,9 +48,7 @@
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=henrique-asr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=henrique-asr&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
+ 
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=henrique-asr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
