@@ -13,13 +13,13 @@
  
 <div align="center"> 
   <a href="mailto:henrique.augusto.sr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=guiatneris@gmail.com" alt="Gmail"/></a>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=henrique.augusto.sr@gmail.com" alt="Gmail"/></a>
   </a>
   <a href="https://www.linkedin.com/in/henrique-asr/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guiatneris/" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/henrique-asr/" alt="LinkedIn"/>
   </a>
 <a href="https://www.instagram.com/henriiquera" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nerisz_/" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/henriiquera/" alt="Instagram"/>
   </a>
 </div>
 
@@ -49,7 +49,7 @@
 <br>
 <div align=center>
  
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-asr&layout=compact" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-asr&theme=dark&hide_border=true&layout=compact" />
 </div>
 
 <br/><br/>
