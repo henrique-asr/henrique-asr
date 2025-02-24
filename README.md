@@ -4,6 +4,7 @@
 </h1>
 
 <h3 align="center">Estudante Universitário buscando aprender programação!</h3>
+<h3 align="center">Cursando o 2° semestre, de Análise e desenvolvimento de sistemas.</h3>
 
 <h3 align="center">Meus Contatos!</h3>
 
