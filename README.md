@@ -33,15 +33,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
-  <br>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henrique-asr/henrique-asr/output/github-snake-dark.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
