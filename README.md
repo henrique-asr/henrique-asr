@@ -29,8 +29,8 @@
 <h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python" /><br>
-    <img src="https://skillicons.dev/icons?i=windows,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,javascript,git" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio" /><br>
 </div>
 
 <br/>
@@ -41,7 +41,7 @@
 <br>
 <div align=center>
  
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-asr&theme=dark&hide_border=true&layout=compact" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-asr&theme=dark&hide_border=true&layout=compact"/>
 </div>
 
 <br/><br/>
